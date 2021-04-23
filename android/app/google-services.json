@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79128443746",
+    "project_id": "faceauth-c9893",
+    "storage_bucket": "faceauth-c9893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79128443746:android:d35432aad262e086028a3b",
+        "android_client_info": {
+          "package_name": "com.example.facialreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79128443746-tpdpf18cmeattqnuikpau3rtdnm19kbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbt-rZ2cE5GLLkujSA-_ta1M5Ly_v8aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79128443746-tpdpf18cmeattqnuikpau3rtdnm19kbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
